@@ -35,3 +35,7 @@ npx serve .
 
 ## License
 MIT
+
+---
+
+See the source code on [GitHub](https://github.com/Manyachandra/Portfolio).

@@ -1,3 +1,11 @@
 node_modules/
 .cursor/
 .vscode/
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*~
